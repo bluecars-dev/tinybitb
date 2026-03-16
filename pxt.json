@@ -1,0 +1,19 @@
+{
+    "name": "tinybit-pro",
+    "version": "0.0.1",
+    "description": "Professional SLAM and Odometry for Tiny:bit",
+    "dependencies": {
+        "core": "*",
+        "microbit": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "_test.ts"
+    ],
+    "targetVersions": {
+        "target": "5.0.0"
+    }
+}
